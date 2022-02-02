@@ -203,6 +203,13 @@ main {
   max-width: 320px;
 }
 
+.content h2 {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+  max-width: 500px;
+}
+
 .content p {
   font-weight: 400;
   font-size: 18px;
@@ -242,6 +249,7 @@ input {
   bottom: 30px;
   right: 3em;
   text-align: center;
+  transform: translateY(60%);
   gap: 2em;
 }
 
@@ -426,8 +434,6 @@ input {
 }
 
 /* bussiness */
-
-
 
 /* responsive */
 
