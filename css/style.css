@@ -445,6 +445,11 @@ input {
   justify-content: space-evenly;
 }
 
+.accordion-box {
+  margin-top: 1rem;
+  position: relative;
+}
+
 .bussiness .box .left {
   margin-left: 2rem;
   width: 50%;
@@ -454,7 +459,6 @@ input {
 }
 
 .bussiness .box h1 {
-  margin-bottom: 3rem;
   text-align: center;
 }
 
